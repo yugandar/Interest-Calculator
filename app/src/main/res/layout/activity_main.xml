@@ -75,7 +75,7 @@
                     android:id="@+id/et_rate"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="Intrest"
+                    android:hint="Interest in rupees"
                     android:inputType="numberDecimal" />
             </android.support.design.widget.TextInputLayout>
 
